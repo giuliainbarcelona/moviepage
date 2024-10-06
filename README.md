@@ -3,6 +3,7 @@
 ## Introduction
 
 This project is a single-page application that displays movie listings sourced from the IMDb datasets. Users can view detailed information about each movie, including the title, genre, year, rating, runtime, a link to the respective IMDb page, and the movie's poster. The application allows for sorting and filtering of movies, making it easy for users to find specific titles based on their preferences.
+To view the deployed version: [click here](https://movies-list-35430c818ac7.herokuapp.com/).
 
 ## Features
 
